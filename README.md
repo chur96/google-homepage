@@ -1,0 +1,1 @@
+This is first Odin project for recreating Google page. Solidify learnings from free code camp.
